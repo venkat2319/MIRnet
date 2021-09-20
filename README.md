@@ -17,7 +17,7 @@ Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf).
 
 **Tensorflow JS Variant of MIRNet:** [https://github.com/Rishit-dagli/MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS).
 
-**Object identification:**[https://drive.google.com/file/d/1tWgOEE_6_2nSC7Ny2LBdpUUyW3zciGZe/view?usp=sharing].(https://drive.google.com/file/d/1tWgOEE_6_2nSC7Ny2LBdpUUyW3zciGZe/view?usp=sharing)
+**Object identification:**https://drive.google.com/file/d/1tWgOEE_6_2nSC7Ny2LBdpUUyW3zciGZe/view?usp=sharing.
 
 ![](./assets/mirnet_architecture.png)
 
