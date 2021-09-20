@@ -1,11 +1,11 @@
 # MIRNet
 
-[![](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/soumik12345/mirnet/app.py)
+[![](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/soumik1234/mirnet/app.py)
 
 Tensorflow implementation of the MIRNet architecture as proposed by [Learning Enriched Features for Real Image
 Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf).
 
-**Lanuch Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soumik12345/MIRNet/HEAD)
+**Lanuch Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://colab.research.google.com/drive/1ilrTNoa6HE992eSBuBvZixWlyB_zFFs-#scrollTo=5q2iGbk4eRfU)
 
 **Wandb Logs:** [https://wandb.ai/19soumik-rakshit96/mirnet](https://wandb.ai/19soumik-rakshit96/mirnet)
 
